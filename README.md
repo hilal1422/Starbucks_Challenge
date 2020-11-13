@@ -1,4 +1,4 @@
-# Starbucks Capstone Challenge
+# Starbucks Challenge
 Project in Data Scientist Nanodegree of Udacity
 
 ### Table of Contents
